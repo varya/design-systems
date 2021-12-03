@@ -15,6 +15,7 @@ export { default as Container } from "./components/Container";
 export { default as Grid } from "./components/Grid";
 export { default as CheckoutButton } from "./components/CheckoutButton";
 export { default as Icon } from "./components/Icon";
+export { default as MultilineInput } from "./components/MultilineInput";
 export { default as ProductItem } from "./components/ProductItem";
 export { default as Select } from "./components/Select";
 export { default as SummaryTable } from "./components/SummaryTable";
