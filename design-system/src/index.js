@@ -17,6 +17,7 @@ export { default as CheckoutButton } from "./components/CheckoutButton";
 export { default as Icon } from "./components/Icon";
 export { default as MultilineInput } from "./components/MultilineInput";
 export { default as ProductItem } from "./components/ProductItem";
+export { default as ProductNav } from "./components/ProductNav";
 export { default as Select } from "./components/Select";
 export { default as SummaryTable } from "./components/SummaryTable";
 export { default as Title } from "./components/Title";
