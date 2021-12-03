@@ -10,6 +10,7 @@ export { colors, typography, spacing } from "./tokens";
 
 export { default as Button } from "./components/Button";
 export { default as Carousel } from "./components/Carousel";
+export { default as Grid } from "./components/Grid";
 export { default as CheckoutButton } from "./components/CheckoutButton";
 export { default as Icon } from "./components/Icon";
 export { default as ProductItem } from "./components/ProductItem";
